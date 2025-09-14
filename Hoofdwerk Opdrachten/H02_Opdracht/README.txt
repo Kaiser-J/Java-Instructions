@@ -1,1 +1,0 @@
-Alle opdrachten for Hoofdstuk 2 heb ik in 1 file gemaakt.
